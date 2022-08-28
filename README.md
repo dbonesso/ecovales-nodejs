@@ -18,3 +18,10 @@ Teremos duas VPC, uma pública que permitira acesso ao a instância de Node. Out
 |  S3.                |  Armazenar os dados do datalake.             |
 |  Amazon RDS.        |  Postgres para RDS.                          |
 |  EC2.               |  Máquina virtual que executa o WebSite       |  
+
+## Componentes Adicionais
+
+| Componente          |  Objetivo                                    |
+| ------------------- | -------------------------------------------  |
+|  Github .           |  Ferramenta de Repositório de código.        |
+|  NordVPN.           |  VPN com Ip fixo para conectar na aws.       |
